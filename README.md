@@ -25,7 +25,7 @@ Contiene las siguientes secciones:
 ## 3. Objetivo del proyecto 🎯
 Aprender a utilizar las etiquetas de HTML5 y CSS3.
 
-## 4. Link a demo 📎
+## 4. Link a demo📎
 Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://helpful-druid-ba1f8e.netlify.app/)
 
 
